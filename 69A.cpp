@@ -16,29 +16,24 @@ int main() {
     int n;
     vi x, y, z;
 
-    // Input the size of the arrays
     cin >> n;
 
-    // Resize vectors to hold n elements
     x.resize(n);
     y.resize(n);
     z.resize(n);
 
-    // Input values for x, y, z
     for (int i = 0; i < n; i++) {
         cin >> x[i] >> y[i] >> z[i];
     }
 
-    // Calculate the sum of each component
     int sum_x = 0, sum_y = 0, sum_z = 0;
 
-    REP(i, 0, n - 1) {  // Fix loop range
+    REP(i, 0, n - 1) {  
         sum_x += x[i];
         sum_y += y[i];
         sum_z += z[i];
     }
 
-    // Check equilibrium condition
     if (sum_x == 0 && sum_y == 0 && sum_z == 0) {
         cout << "YES\n";
     } else {
