@@ -19,6 +19,7 @@ class Graph:
 
         return False
 
+
     def is_cyclic(self):
         visited = [False] * self.vertices
 
