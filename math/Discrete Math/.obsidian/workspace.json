@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "83d1fae1be228271",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ce02be01525cc0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed5067a334283538",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "15bda66ed25a61c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discrete Mathemetics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Discrete Mathemetics"
+            }
+          },
+          {
+            "id": "463dcbf122aade9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "prepositional logic/Prepositional  logic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prepositional  logic"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f161f84f259c4d6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c09879202df35888",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6723be66cc89a41a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "95d323173671f33a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5a078dfd378c193e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5d71031fe58dc375",
+    "type": "split",
+    "children": [
+      {
+        "id": "5138e90424223a65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d3be461aac568c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "prepositional logic/Prepositional  logic.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Prepositional  logic"
+            }
+          },
+          {
+            "id": "47b36cd411ef04a1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "prepositional logic/Prepositional  logic.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Prepositional  logic"
+            }
+          },
+          {
+            "id": "e1d6acd3448cf304",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "87e7496982d6dc87",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "prepositional logic/Prepositional  logic.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Prepositional  logic"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "463dcbf122aade9f",
+  "lastOpenFiles": [
+    "prepositional logic/Prepositional Logic.md",
+    "prepositional logic/Prepositional  logic.md",
+    "Discrete Mathemetics.md",
+    "prepositional logic/Prepositional Topics.md",
+    "Welcome.md",
+    "prepositional logic"
+  ]
+}
